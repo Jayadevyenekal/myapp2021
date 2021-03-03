@@ -5,6 +5,6 @@
 5.Sullia
 6.Puttur
 7.Local changes....
-8. Devops and amazon web services
+8. Task 2 changes
 
 	
