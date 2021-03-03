@@ -4,10 +4,7 @@
 4.Yenekal
 5.Sullia
 6.Puttur
-<<<<<<< HEAD
 7.Local changes....
-=======
-7.Remote changes
+8. Devops and amazon web services
 
->>>>>>> 251fae30df81e05aca8e42020cab7c34a6d71361
-
+	
