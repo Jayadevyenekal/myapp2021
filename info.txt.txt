@@ -4,5 +4,5 @@
 4.Yenekal
 5.Sullia
 6.Puttur
-7.Local changes....
+
 
