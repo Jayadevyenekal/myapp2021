@@ -9,9 +9,6 @@
 9.task is updated
 10.Update the task
 11.Divyasree tech park
-12.BMP
-14.Manyatha teck park
-15.Nagavara
-16.Bangalore
+
 
 	
